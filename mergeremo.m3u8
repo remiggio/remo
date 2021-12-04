@@ -27,7 +27,7 @@ https://www.mytivu.it/Application/Channels/TV8.php
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1585746893~exp=1585833293~acl=/i/*~hmac=7aa28aab591fe6ddf8d0480b4f202d3536f6f5b26dedf9d944c35b6320950ca4&mux_audio=true
 #EXT-X-ADDON-INF:broadcaster=mediaset/20
 #EXTINF:-1 tvg-id="mediaset20" tvg-logo="" tvg-name="20 Mediaset" tvg-chno="20" group-title="Movie/Fiction",20 Mediaset
-https://live3.msf.cdn.mediaset.net/content/dash_d1_gwv_vos/live/channel(lb)/manifest.mpd
+https://qihefouiaeggveif.wzcdn594.net:8443/hls/jcd2os7hj.m3u8?s=KTXbNbPmcps3xySfIJDN0w&e=1638680816
 #EXT-X-ADDON-INF:broadcaster=rai/Rai 4
 #EXTINF:-1 tvg-id="rai4" tvg-logo="" tvg-name="Rai 4" tvg-chno="21" group-title="Movie/Fiction",Rai 4
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
