@@ -195,7 +195,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 plugin://plugin.video.wltvhelper/play/mediasport/acisport/fta/Sport/acisporttv
 #EXTINF: -1 tvg-id="raisport" tvg-name="Rai Sport+ HD" tvg-chno="57" group-title="Sport", Rai Sport+ HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
-#EXTINF: -1 tvg-id="raisport" tvg-name="Rai Sport" tvg-chno="57" group-title="Sport", Rai Sport
+#EXTINF: -1 tvg-id="raisport" tvg-name="Rai Sport" tvg-chno="58" group-title="Sport", Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
 #EXTINF: -1 tvg-id="sportitalia" tvg-name="Sport Italia HD" tvg-chno="60" group-title="Sport", Sport Italia HD
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8
