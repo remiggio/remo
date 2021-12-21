@@ -10,7 +10,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXT-X-ADDON-INF:broadcaster=mediaset/Rete 4
 #EXTINF:-1 tvg-id="rete4" tvg-logo="" tvg-name="Rete 4" tvg-chno="4" group-title="Generalisti",Rete 4
-https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
 #EXT-X-ADDON-INF:broadcaster=mediaset/Canale 5
 #EXTINF:-1 tvg-id="canale5" tvg-logo="" tvg-name="Canale 5" tvg-chno="5" group-title="Generalisti",Canale 5
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
@@ -111,7 +111,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXT-X-ADDON-INF:broadcaster=mediaset/TGCom
 #EXTINF:-1 tvg-id="tgcom24" tvg-logo="" tvg-name="Tgcom24" tvg-chno="51" group-title="News",Tgcom24
-https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd
 #EXT-X-ADDON-INF:broadcaster=discovery/DMAX
 #EXTINF:-1 tvg-id="dmax" tvg-logo="" tvg-name="DMAX" tvg-chno="52" group-title="Intrattenimento",DMAX
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
