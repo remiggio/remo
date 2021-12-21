@@ -13,7 +13,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXT-X-ADDON-INF:broadcaster=mediaset/Canale 5
 #EXTINF:-1 tvg-id="canale5" tvg-logo="" tvg-name="Canale 5" tvg-chno="5" group-title="Generalisti",Canale 5
-https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
 #EXT-X-ADDON-INF:broadcaster=mediaset/Italia 1
 #EXTINF:-1 tvg-id="italia1" tvg-logo="" tvg-name="Italia 1" tvg-chno="6" group-title="Generalisti",Italia 1
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
